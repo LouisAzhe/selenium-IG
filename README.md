@@ -10,7 +10,7 @@
   
 ![image](https://github.com/LouisAzhe/selenium-IG/assets/48307578/d18c8ccd-ef03-431c-8221-9dd0af166447)  
   
-接著需要下載對應作業系統的壓縮檔，並將檔案解壓縮，後續程式部分是以windows環境，使用exe檔為例。  
+接著需要下載對應作業系統的壓縮檔，並將檔案解壓縮，後續程式是使用windows作業系統，搭配exe檔執行為例。  
   
 ![image](https://github.com/LouisAzhe/selenium-IG/assets/48307578/6dd36aff-fec0-4a80-989e-026b2a4d871c)  
 
