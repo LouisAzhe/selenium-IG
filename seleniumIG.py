@@ -7,6 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import os
 import wget
+import pyautogui
 
 path = 'C:/Users/Louis/chromedriver_win32/chromedriver.exe'
 driver = webdriver.Chrome(path)
@@ -53,7 +54,7 @@ search.send_keys(Keys.ENTER)
 time.sleep(1)
 search.send_keys(Keys.ENTER)
 
-time.sleep(5)
+time.sleep(10)
 #WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3')))
 WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '.x5yr21d.xu96u03.x10l6tqk.x13vifvy.x87ps6o.xh8yej3')))
 
