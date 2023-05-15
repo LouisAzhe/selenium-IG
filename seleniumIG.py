@@ -7,7 +7,6 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import os
 import wget
-import pyautogui
 
 path = 'C:/Users/Louis/chromedriver_win32/chromedriver.exe'
 driver = webdriver.Chrome(path)
