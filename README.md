@@ -8,12 +8,14 @@
 如上圖，我的版本是113.0.5672.93，所以在下載的時候需要下載下方的version 113，如下圖▼  
 👉 [Chrome Driver 下載傳送門](https://chromedriver.chromium.org/downloads)  
   
-![image](https://github.com/LouisAzhe/selenium-IG/assets/48307578/d18c8ccd-ef03-431c-8221-9dd0af166447)
+![image](https://github.com/LouisAzhe/selenium-IG/assets/48307578/d18c8ccd-ef03-431c-8221-9dd0af166447)  
   
-接著麻煩下載對應作業系統的壓縮檔，並將檔案解壓縮，後續程式部分是以windows環境，使用exe檔為例。  
+接著需要下載對應作業系統的壓縮檔，並將檔案解壓縮，後續程式部分是以windows環境，使用exe檔為例。  
+  
 ![image](https://github.com/LouisAzhe/selenium-IG/assets/48307578/6dd36aff-fec0-4a80-989e-026b2a4d871c)  
 
 前置作業完成後，我們來試著用selenium在IG上，爬幾張吉娃娃的圖，下方圖片為爬完後，將圖片下載至本機的結果▼  
+  
 ![image](https://github.com/LouisAzhe/selenium-IG/assets/48307578/0b3ae61c-250c-43fa-b4fb-f6993e25d890)  
   
 ## ▶ Code在這裡：  
