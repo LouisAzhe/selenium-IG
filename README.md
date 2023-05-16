@@ -18,8 +18,8 @@
   
 ![image](https://github.com/LouisAzhe/selenium-IG/assets/48307578/0b3ae61c-250c-43fa-b4fb-f6993e25d890)  
   
-## ▶ Code在這裡：  
-下方code測試時間為2023/05/15，若之後有網頁元素有所變更仍需配合網頁進行調整。  
+## ▶ 補充：  
+- 下方code測試時間為2023/05/15，若之後有網頁元素有所變更仍需配合網頁進行調整。  
 👉 [如何在IG上爬吉娃娃的圖](https://github.com/LouisAzhe/selenium-IG/blob/main/seleniumIG.py)  
   
 <p align="right"> Copyright &copy; 2020 - 2023 Azhe all rights reserved </p>
