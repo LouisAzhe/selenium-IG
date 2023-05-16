@@ -14,6 +14,7 @@ url = ('https://www.instagram.com/')
 driver.get(url)
 
 #等待標籤出現才作什麼，並且會回傳你設的標籤
+# More about EC --> https://selenium-python.readthedocs.io/waits.html
 username = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.NAME, "username")))
 passwowrd = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.NAME, "password")))
 
