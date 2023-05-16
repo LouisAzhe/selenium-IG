@@ -22,4 +22,7 @@
 - 下方code測試時間為2023/05/15，若之後有網頁元素有所變更仍需配合網頁進行調整。  
 👉 [如何在IG上爬吉娃娃的圖](https://github.com/LouisAzhe/selenium-IG/blob/main/seleniumIG.py)  
   
+- Selenium Documentation (可以在裡面查看相關function的使用)  
+👉 [Selenium with Python](https://selenium-python.readthedocs.io/index.html)  
+  
 <p align="right"> Copyright &copy; 2020 - 2023 Azhe all rights reserved </p>
